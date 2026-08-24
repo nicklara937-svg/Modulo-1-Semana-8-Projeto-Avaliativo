@@ -1,0 +1,10 @@
+## .NET build artifacts
+bin/
+obj/
+*.user
+
+## OS / editor files
+.vs/
+.vscode/
+.idea/
+.DS_Store
